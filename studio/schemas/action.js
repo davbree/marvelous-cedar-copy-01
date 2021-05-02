@@ -6,7 +6,7 @@ export default {
         {
             "type": "string",
             "name": "label",
-            "title": "Labela",
+            "title": "Labela!!!",
             "validation": Rule => Rule.required()
         },
         {
